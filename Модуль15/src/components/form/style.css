@@ -1,0 +1,19 @@
+ul{
+	padding-left: 0;
+	margin: 0;
+}
+label{
+	display: block;
+	margin-bottom: 5px;
+}
+input, textarea{
+	margin-bottom: 15px;
+}
+.btn {
+	 display: block;
+	 border: 0;
+	 outline: 0;
+	 background-color: #fff;
+	 border: 2px solid #ccc;
+	 width: 200px;
+ }

@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.grid{
+    display: grid;
+}
+.col-2{
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+}
+.task{
+    margin-top: 50px;
+}
+.profit{
+    text-decoration: line-through;
+}
+.list li{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+

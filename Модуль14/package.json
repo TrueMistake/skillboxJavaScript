@@ -1,0 +1,23 @@
+{
+  "name": "my-project",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "babel-loader": "8.0.5",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^2.1.1",
+    "extract-text-webpack-plugin": "4.0.0-beta.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-minify": "^3.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  },
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

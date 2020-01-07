@@ -1,0 +1,25 @@
+li{
+	list-style-type: none;
+}
+button{
+	cursor: pointer;
+}
+.todoItem{
+	border-bottom: 1px solid #ebebeb;
+	padding-bottom: 15px;
+}
+.todoItem p:first-child{
+	font-weight: 900;
+}
+.todoItem .btn{
+	background: red;
+	color: #fff;
+}
+.btn {
+	display: block;
+	border: 0;
+	outline: 0;
+	background-color: #fff;
+	border: 2px solid #ccc;
+	width: 200px;
+}

@@ -1,0 +1,35 @@
+@import 'https://fonts.googleapis.com/css?family=Ubuntu:400,500&subset=latin,cyrillic';
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Ubuntu', serif;
+    font-size: 36px;
+    background: #000;
+    color: #fff;
+}
+
+.translate {
+    display: flex;
+    width: 100%;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.left {
+    margin-right: 50px;
+}
+
+.right {
+    margin-left: 50px;
+}
+.btn{
+    display: block;
+    margin: 30px auto;
+}

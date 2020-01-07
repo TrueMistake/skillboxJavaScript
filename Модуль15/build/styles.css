@@ -1,0 +1,57 @@
+ul{
+	padding-left: 0;
+	margin: 0;
+}
+label{
+	display: block;
+	margin-bottom: 5px;
+}
+input, textarea{
+	margin-bottom: 15px;
+}
+.btn {
+	 display: block;
+	 border: 0;
+	 outline: 0;
+	 background-color: #fff;
+	 border: 2px solid #ccc;
+	 width: 200px;
+ }.btn {
+	display: block;
+	border: 0;
+	outline: 0;
+	background-color: #fff;
+	border: 2px solid #ccc;
+	width: 200px;
+}li{
+	list-style-type: none;
+}
+button{
+	cursor: pointer;
+}
+.todoItem{
+	border-bottom: 1px solid #ebebeb;
+	padding-bottom: 15px;
+}
+.todoItem p:first-child{
+	font-weight: 900;
+}
+.todoItem .btn{
+	background: red;
+	color: #fff;
+}
+.btn {
+	display: block;
+	border: 0;
+	outline: 0;
+	background-color: #fff;
+	border: 2px solid #ccc;
+	width: 200px;
+}.btn {
+	display: block;
+	border: 0;
+	outline: 0;
+	background-color: #fff;
+	border: 2px solid #ccc;
+	width: 200px;
+}
